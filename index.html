@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Алхимия</title>
+    <link href='style.css' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <script src='game.js'></script>
+    <div class="container">
+        <div class="gameContainer">
+            <div class="gameFieldContainer">
+                <div id="rowContainer">
+                    <div id="element1Container" class="elementContainer">
+                        
+                    </div>
+
+                    <p class="plus">+</p>
+
+                    <div id="element2Container" class="elementContainer">
+                        
+                    </div>
+                </div>
+                
+                <button class="button" onclick="combineElements()">Объединить</button>
+            </div>
+            <div id="elementsContainer"></div>
+        </div>
+        
+        <div class="HUDContainer">
+            <button class="button" onclick="howToPlay();">Как играть?</button>
+            <button class="button" onclick="clearButton();">Обнулить прогресс</button>
+        </div>
+
+        <div class="fullscreenMenu" id="menu">
+            <div class="menuOverlay"></div>
+            
+            <div class="menuContainer">
+                <div class="menuContent" id="menuContent">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
