@@ -1,27 +1,27 @@
-STANDARD water 💦 Вода/
-STANDARD fire 🔥 Огонь/
-STANDARD wind 🌬️ Ветер/
-STANDARD ground 🌍 Земля/
-steam 😤 Пар/
-smoke 🚬 Дым/
-dust 💨 Пыль/
-plant 🌱 Растение/
-swamp 👺 Болото/
-rain 🌧️ Дождь/
-volcano 🗻 Вулкан/
-sea 🌊 Море/
-fireball ️‍🔥 Огненный шар/
-tornado 🌪️ Торнадо/
-stone 🪨 Камень/
-life 🧬 Жизнь/
-tree 🌳 Дерево/
-iron 🥌 Железо/
-lava 🌋 Лава/
-sand ⏳ Песок/
-glass 🪟 Стекло/
-ak47 🔫 АК-47/
-de_dust2 🏜️ de_dust2/
-mirage 🏝️ Мираж/
-de_mirage 🏖 de_mirage/
-counter_strike ☪️ CS:GO/
-terrorist 🧕🏽 Террорист/
+STANDARD water 💦 Вода
+STANDARD fire 🔥 Огонь
+STANDARD wind 🌬️ Ветер
+STANDARD ground 🌍 Земля
+steam 😤 Пар
+smoke 🚬 Дым
+dust 💨 Пыль
+plant 🌱 Растение
+swamp 👺 Болото
+rain 🌧️ Дождь
+volcano 🗻 Вулкан
+sea 🌊 Море
+fireball ️‍🔥 Огненный шар
+tornado 🌪️ Торнадо
+stone 🪨 Камень
+life 🧬 Жизнь
+tree 🌳 Дерево
+iron 🥌 Железо
+lava 🌋 Лава
+sand ⏳ Песок
+glass 🪟 Стекло
+ak47 🔫 АК-47
+de_dust2 🏜️ de_dust2
+mirage 🏝️ Мираж
+de_mirage 🏖 de_mirage
+counter_strike ☪️ CS:GO
+terrorist 🧕🏽 Террорист

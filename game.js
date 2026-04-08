@@ -185,7 +185,7 @@ async function parseElementsFile(file) {
         let response = await fetch(file);
         let text = await response.text();
 
-        let lines = text.split('/');
+        let lines = text.split('\r\n');
             
         for (let line of lines) {
             let words = line.split(' ');
@@ -223,7 +223,7 @@ async function parseRecipeFile(file) {
         let response = await fetch(file);
         let text = await response.text();
 
-        let lines = text.split("/");
+        let lines = text.split('\r\n');
 
         for (let line of lines) {
             let words = line.split(' ');
