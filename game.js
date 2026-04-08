@@ -223,7 +223,7 @@ async function parseRecipeFile(file) {
         let response = await fetch(file);
         let text = await response.text();
 
-        let lines = text.split('\n');
+        let lines = text.split("/r");
 
         for (let line of lines) {
             let words = line.split(' ');
