@@ -2,26 +2,54 @@ STANDARD water 💦 Вода
 STANDARD fire 🔥 Огонь
 STANDARD wind 🌬️ Ветер
 STANDARD ground 🌍 Земля
+energy ⚡ Энергия
 steam 😤 Пар
-smoke 🚬 Дым
+HQD 🌬️ HQD
+hookah 🌁 Кальян
 dust 💨 Пыль
+de_dust2 🏜️ de_dust2
 plant 🌱 Растение
+tree 🌳 Дерево
+paper 🗞️ Бумага
+smoke 🚬 Дым
+cigarette 🚬 Сигарета
 swamp 👺 Болото
+life 🧬 Жизнь
+animal 🐷 Животное
+men 👨🏽 Человек
+shrek 👽 Шрек
+mocha 💦 Моча
+tornado_energy 🌪️ Tornado Energy
+cloud ☁️ Облако
 rain 🌧️ Дождь
+lightning ⚡ Молния
+sun ☀️ Солнце
+lava 🌋 Лава
 volcano 🗻 Вулкан
 sea 🌊 Море
 fireball ️‍🔥 Огненный шар
 tornado 🌪️ Торнадо
 stone 🪨 Камень
-life 🧬 Жизнь
-tree 🌳 Дерево
 iron 🥌 Железо
-lava 🌋 Лава
+gold 🪙 Золото
+golden_rain 💴 Золотой дождь
 sand ⏳ Песок
 glass 🪟 Стекло
 ak47 🔫 АК-47
-de_dust2 🏜️ de_dust2
 mirage 🏝️ Мираж
-de_mirage 🏖 de_mirage
+de_mirage 🏖️ de_mirage
 counter_strike ☪️ CS:GO
-terrorist 🧕🏽 Террорист
+shit 💩 Говно
+ivan_zolo 💩 Иван Золо
+clay 💩 Глина
+clay_craft 🏳️‍🌈 Глиномес
+brick 🧱 Кирпич
+house 🏠 Дом
+city 🏙️ Город
+field ⛳ Поле
+wheat 🌾 Пшеница
+bread 🍞 Хлеб
+fish 🐟 Рыба
+fish_burger 🍔 Фишбургер
+cow 🐄 Корова
+miratorg 🩸 Мираторг

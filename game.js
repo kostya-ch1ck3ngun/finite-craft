@@ -260,7 +260,7 @@ function howToPlay () {
     menuContent.appendChild(text);
     
     let gif = document.createElement('img');
-    gif.src = "slava-kpss-славакпсс.gif";
+    gif.src = "howToPlay.gif";
     gif.alt = "Гифка с примером игры"
 
     menuContent.appendChild(gif);
